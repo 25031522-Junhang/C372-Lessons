@@ -1,0 +1,1 @@
+specs/prepare-payment.md
